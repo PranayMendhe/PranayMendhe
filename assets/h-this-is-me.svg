@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 70" width="1200" height="70" role="img" aria-label="This is me :)">
+<style>.m{font-family:"JetBrains Mono", "Fira Code", ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;}.blink{animation:bl 1s steps(1) infinite}@keyframes bl{50%{opacity:0}}@media (prefers-reduced-motion: reduce){.blink{animation:none}}</style>
+<text x="22" y="44" class="m" font-size="24" font-weight="700"><tspan fill="#50FA7B">&gt;</tspan><tspan fill="#F8F8F2"> This is me :)</tspan><tspan class="blink" fill="#FF79C6">_</tspan></text>
+<text x="1190" y="44" text-anchor="end" class="m" font-size="13" fill="#6272A4"># whoami</text>
+</svg>
